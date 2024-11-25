@@ -1,17 +1,17 @@
 {
-  "name": "ninjasimo/micro-mvc",
-  "description": "Framework Mvc basic for small project",
-  "license": "MIT",
-  "type": "library",
-  "authors": [
-    {
-      "name": "Simone Anselmo",
-      "email": "simone.anselmo@simowd.it"
+    "name": "ninjasimo/micro-mvc",
+    "description": "Framework Mvc basic for small project",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Simone Anselmo",
+            "email": "simone.anselmo@simowd.it"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SWD\\Core\\": "src"
+        }
     }
-  ],
-  "autoload": {
-    "psr-4": {
-      "SWD\\": "src"
-    }
-  }
 }
