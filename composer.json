@@ -1,5 +1,5 @@
 {
-    "name": "swd/micro-mvc",
+    "name": "micro-mvc",
     "description": "Framework Mvc basic for small project",
     "type": "framework",
     "keywords": ["framework", "mvc"],
