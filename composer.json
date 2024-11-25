@@ -1,0 +1,15 @@
+{
+    "name": "swd/micro-mvc",
+    "description": "Framework Mvc basic for small project",
+    "type": "framework",
+    "keywords": ["framework", "mvc"],
+    "authors": [
+        {
+            "name": "Simone Anselmo",
+            "email": "simone.anselmo@simowd.it"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    }
+}
