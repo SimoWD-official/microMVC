@@ -1,16 +1,23 @@
 {
     "name": "ninjasimo/micro-mvc",
     "description": "Framework Mvc basic for small project",
-    "type": "framework",
-    "license": "MIT",
-    "version": "0.0.0",
-    "keywords": ["framework", "mvc"],
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "NinjaSimo\\Micro-MVC": "src/"
+        }
+    },
+    "keywords": [
+        "framework",
+        "mvc"
+    ],
     "authors": [
         {
             "name": "Simone Anselmo",
             "email": "simone.anselmo@simowd.it"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "php": "^8.0"
     }
