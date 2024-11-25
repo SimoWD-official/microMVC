@@ -2,6 +2,8 @@
     "name": "ninjasimo/micro-mvc",
     "description": "Framework Mvc basic for small project",
     "type": "framework",
+    "license": "UNLICENSED",
+    "version": "0.0.0",
     "keywords": ["framework", "mvc"],
     "authors": [
         {
